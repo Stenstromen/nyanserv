@@ -1,5 +1,7 @@
 # Nyanserv
 
+[![Nyancats](http://nyancat.dakko.us/nyancat.png)](http://nyancat.dakko.us/nyancat.png)
+
 Dockerfile for klanges "Nyancat CLI", Telnet mode 
 
 [github.com/klange](https://github.com/klange/nyancat)
