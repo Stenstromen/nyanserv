@@ -29,7 +29,7 @@ docker build -t nyanserv nyanserv/.
 ## Run
 
 ```
-docker run --rm -p 23:23 nyanserv
+docker run -d --rm -p 23:23 nyanserv
 ```
 
 ## Connect
