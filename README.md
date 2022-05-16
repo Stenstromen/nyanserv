@@ -6,6 +6,11 @@ Dockerfile for klanges "Nyancat CLI", Telnet mode
 
 [github.com/klange](https://github.com/klange/nyancat)
 
+Uses:
+* ubuntu:latest
+* xinetd
+* nyancat
+
 ## Demo
 
 Demo available at Stenstromen/nyanserv. (linux/arm64)
