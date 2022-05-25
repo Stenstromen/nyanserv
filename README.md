@@ -16,7 +16,7 @@ Uses:
 Demo available at Stenstromen/nyanserv. (linux/arm64)
 
 ```
-docker run -d --rm -p 23:23 stenstromen/nyanserv
+docker run -d --rm -p 23:23 stenstromen/nyanserv:latest
 ```
 
 ## Clone
