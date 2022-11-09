@@ -1,3 +1,4 @@
+[![Phyaddr CI/CD](https://github.com/Stenstromen/nyanserv/actions/workflows/main.yml/badge.svg)](https://github.com/Stenstromen/phyaddr/actions/workflows/main.yml)[![Phyaddr Snyk Container Scanning](https://github.com/Stenstromen/nyanserv/actions/workflows/snyk.yml/badge.svg)](https://github.com/Stenstromen/phyaddr/actions/workflows/snyk.yml)
 # Nyanserv
 
 [![Nyancats](http://nyancat.dakko.us/nyancat.png)](http://nyancat.dakko.us/nyancat.png)
