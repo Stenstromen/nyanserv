@@ -7,9 +7,11 @@ Dockerfile for klanges "Nyancat CLI", Telnet mode
 [github.com/klange](https://github.com/klange/nyancat)
 
 Uses:
-* ubuntu:latest
-* xinetd
+* alpine:latest
+* inetd (busybox-extras)
 * nyancat
+
+Builds project from [github.com/klange](https://github.com/klange/nyancat) and deploys via inetd (busybox-extras)
 
 ## Demo
 
