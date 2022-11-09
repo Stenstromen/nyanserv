@@ -1,2 +1,2 @@
-#!/bin/bash
-xinetd -dontfork -stayalive
+#!/bin/sh
+inetd -f
