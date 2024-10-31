@@ -1,2 +1,2 @@
 #!/bin/sh
-inetd -f
+inetd -f /etc/inetd.conf
