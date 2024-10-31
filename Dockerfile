@@ -15,6 +15,8 @@ RUN chmod 755 docker-entrypoint.sh && \
     chmod 755 /nyancat && \
     chown -R nobody:nobody /docker-entrypoint.sh /etc/inetd.conf /nyancat
 
+RUN echo "net.ipv6.bindv6only=0" >> /etc/sysctl.conf
+
 USER nobody
 EXPOSE 2323
 ENTRYPOINT ["/docker-entrypoint.sh"]
